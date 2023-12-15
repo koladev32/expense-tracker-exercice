@@ -22,8 +22,8 @@ ReactJS
 
     - components: Folder containing component files.
     - containers: Folder containing the main application component file
-    - redux: Folder containing files to manage
-      transaction data with redux
+    - context: Folder containing files to manage
+      transaction data with react context
     - index.js
 
 ## How to Run the Project
