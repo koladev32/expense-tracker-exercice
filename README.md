@@ -29,7 +29,7 @@ ReactJS
 ## How to Run the Project
 
 1. Clone this repository to your computer.
-2. Executed the `cd expense_tracker` command to access the react project
+2. Executed the `cd expense-tracker-exercice` command to access the react project
 3. Install the project dependencies by running the `npm install` command.
 4. Once all the dependencies are installed, you can run `npm start`. This command runs the project
 
