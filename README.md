@@ -5,7 +5,7 @@ allowing the user to add, edit and delete financial transactions.
 
 ## Requirements
 
-ReactJS , Redux
+ReactJS
 
 ## Project Structure
 
